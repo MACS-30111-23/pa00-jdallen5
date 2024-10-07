@@ -1,3 +1,20 @@
+## My Biography
+Hi all, my name is **Jonathan Allen** - I am a fourth-year CIR BA/MA student interested in gaining coding experience. I am the Rock Format Chief for [WHPK](whpk.org), UChicago's student radio station, and have a radio show every Friday at 5PM.
+
+A picture of me:
+
+
+Learning how to use Markdown and navigating repositories is new for me but feels relatively intuitive (especially writing in md). After mistakenly enrolling into 30121 wihtout the bootcamp experience, this course seems much more suitable for me
+
+
+
+* Here is the first part of a list
+* and here's the second.
+
+
+
+
+
 # PA 00
 
 For this assignment, you will submit TWO files -- the readme and the script file. 
